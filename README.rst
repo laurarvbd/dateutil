@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flaurarvbd%2Fdateutil.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Flaurarvbd%2Fdateutil?ref=badge_shield)
+
 dateutil - powerful extensions to datetime
 ==========================================
 
@@ -166,3 +168,6 @@ All contributions after December 1, 2017 released under dual license - either `A
 
 .. |pgp_mirror| replace:: mirror
 .. _pgp_mirror: https://sks-keyservers.net/pks/lookup?op=vindex&search=0xCD54FCE3D964BEFB
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flaurarvbd%2Fdateutil.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Flaurarvbd%2Fdateutil?ref=badge_large)
